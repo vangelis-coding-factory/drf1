@@ -18,7 +18,7 @@ A simple Django Rest API
 * git clone git@github.com:vangelis-coding-factory/drf1.git
 * cd drf1
 * python3 -m venv venv
-* source/bin/activate
+* source venv/bin/activate
 * cd newsapi
 * pip install -r requirements.txt
 * python manage.py makemigrations
